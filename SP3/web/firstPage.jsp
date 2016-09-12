@@ -42,8 +42,8 @@
 %>
 <div class="jumbotron">
   <div class="container text-center">
-    <h1>Online Store</h1>
-    <p>Mission, Vission & Values</p>
+    <h1>SP3</h1>
+    
   </div>
 </div>
 
@@ -55,7 +55,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.jsp">SP3</a>
+      <a class="navbar-brand" href="#">SP3</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
